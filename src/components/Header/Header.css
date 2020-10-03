@@ -1,0 +1,28 @@
+
+
+.navbar{
+    background: transparent !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    color: white !important;
+}
+
+
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+html body .navbar .navbar-inner .container {
+    color: #FFF!important;
+}
+  
+  
